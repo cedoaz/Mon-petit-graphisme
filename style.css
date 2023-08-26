@@ -1,0 +1,171 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+
+/* HERDER*/
+
+header img{
+   
+    /* margin-top: 35px;
+    width: 210px;  */
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header nav,a{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+    text-decoration: none;
+}
+/* MAIN */
+
+.main{
+    
+}
+
+.main-image{
+    background-image: url(Image/backgroung_image.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+.main-2{
+    width: 70% ;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    /* padding-bottom: 100px; */
+    /* display: flex;
+    flex-direction: column; */
+}
+.para {
+    font-size: 1.7em;
+    padding-bottom: 50px;
+}
+.Possi{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    
+
+}     
+
+.Possi div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.possi p{
+    text-align: center;
+    font-size: 0,7em;
+}
+
+.possi-2{
+    width: 55%;
+    margin: auto; 
+      
+}
+.possi-2 p{
+    font-size: 1em;
+    padding-bottom: 0;
+}
+
+/* footer */
+
+footer{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    background-color: #663399;
+    color: white;
+}
+footer section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer{}
+.MO {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* text-align: center; */
+    align-items: center;
+    width: 30%;
+    margin: auto;
+}
+
+.MI {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+.coo ul {
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+   
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
